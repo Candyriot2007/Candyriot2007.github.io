@@ -1,1 +1,1 @@
-The purpose of this repository is to creata a website for myself.
+The purpose of this repository is to create a website for myself.
